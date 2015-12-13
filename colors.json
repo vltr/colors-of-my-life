@@ -1,0 +1,26 @@
+{
+    "colors": [
+        {"name": "$_NAVY", "value": "#001f3f"},
+        {"name": "$_BLUE", "value": "#0074D9"},
+        {"name": "$_AQUA", "value": "#7FDBFF"},
+        {"name": "$_TEAL", "value": "#39CCCC"},
+        {"name": "$_OLIVE", "value": "#3D9970"},
+        {"name": "$_GREEN", "value": "#2ECC40"},
+        {"name": "$_LIME", "value": "#01FF70"},
+        {"name": "$_YELLOW", "value": "#FFDC00"},
+        {"name": "$_ORANGE", "value": "#FF851B"},
+        {"name": "$_RED", "value": "#FF4136"},
+        {"name": "$_MAROON", "value": "#85144b"},
+        {"name": "$_FUCHSIA", "value": "#F012BE"},
+        {"name": "$_PURPLE", "value": "#B10DC9"},
+        {"name": "$_BLACK", "value": "#111111"},
+        {"name": "$_GRAY", "value": "#AAAAAA"},
+        {"name": "$_SILVER", "value": "#DDDDDD"},
+        {"name": "$pollux-gray", "value": "#828282"},
+        {"name": "$primary", "value": "#00557e"},
+        {"name": "$success", "value": "#5cb85c"},
+        {"name": "$info", "value": "#46b8da"},
+        {"name": "$warning", "value": "#eea236"},
+        {"name": "$danger", "value": "#d43f3a"}
+    ]
+}
